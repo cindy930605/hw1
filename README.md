@@ -4,7 +4,7 @@ This repository contains my submission for **Homework 1** of the Health Data cou
 
 # Contents
 - `hw1Q1.Rmd`: R Markdown source code
-- `hw1Q1.pdf`: Rendered report output
+- `new hw1Q1.pdf`: Rendered report output
 
 # Description
 The analysis uses 2021–2023 NHANES data to explore:
